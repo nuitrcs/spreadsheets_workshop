@@ -2,9 +2,9 @@
 
 Workshop largely based on:
 
-Data Organization in Spreadsheets 
-Karl W. Broman and Kara H. Woo 
-The American Statistician, 2017 
+Data Organization in Spreadsheets \
+Karl W. Broman and Kara H. Woo \
+The American Statistician, 2017 \
 https://doi.org/10.1080/00031305.2017.1375989 
 
 
